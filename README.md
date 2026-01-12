@@ -100,6 +100,13 @@ A course can be registered only if:
 
 ---
 
+## 🧭 Architecture
+
+!System Architecture
+assets/screenshots/architecture.png
+
+---
+
 ##  Technologies Used
 
 - **Python 3**

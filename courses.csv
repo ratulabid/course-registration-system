@@ -1,0 +1,16 @@
+code,title,credits,prerequisite
+ADS101,Introduction to Artificial Intelligence,3,
+ADS102,Programming with Python,3,
+ADS103,Discrete Mathematics,3,
+ADS104,Introduction to Data Science,3,
+ADS201,Data Structures and Algorithms,3,ADS102
+ADS202,Probability and Statistics,3,ADS103
+ADS203,Database Management Systems,3,ADS102
+ADS301,Machine Learning,3,ADS201
+ADS302,Data Mining,3,ADS301
+ADS303,Deep Learning,3,ADS301
+ADS304,Artificial Neural Networks,3,ADS301
+ADS401,Natural Language Processing,3,ADS303
+ADS402,Computer Vision,3,ADS303
+ADS403,Big Data Analytics,3,ADS302
+ADS404,AI Ethics and Governance,2,ADS101
